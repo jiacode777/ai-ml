@@ -9,7 +9,7 @@ A lightweight, proactive web application designed for students and micro-busines
 - **Anomaly Detection**: Receive instant UI alerts when you log an expense that is 1.5x higher than your daily average.
 - **Minimalist Premium UI**: Fluid, glass-morphism dark-mode interface built purely with HTML/CSS without convoluted frameworks.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend**: Vanilla HTML5, CSS3, JavaScript (Fetch API) 
 - **Backend API**: Python 3, Flask, Flask-CORS
 - **Machine Learning**: `scikit-learn` (Linear Regression), `numpy`, `pandas`
