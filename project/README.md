@@ -1,4 +1,4 @@
-# 📈 Smart Expense & Profit Analyzer with ML Predictions
+# Smart Expense & Profit Analyzer with ML Predictions
 
 A lightweight, proactive web application designed for students and micro-business owners to track expenses, calculate profits, and use Machine Learning to predict future spending trends. Instead of purely reacting to past expenses, this tool forecast your upcoming week and alerts you to spending anomalies instantly!
 
@@ -78,7 +78,7 @@ Simply open `frontend/index.html` directly in your browser:
 
 ---
 
-## 🔬 Academic Note: ML Approach & Limitations
+##  Academic Note: ML Approach & Limitations
 *(Included for presentation and assessment purposes)*
 
 **Approach**:
